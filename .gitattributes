@@ -1,0 +1,2 @@
+Khaata_App.zip filter=lfs diff=lfs merge=lfs -text
+Khaata_App.rar filter=lfs diff=lfs merge=lfs -text
